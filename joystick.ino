@@ -9,7 +9,7 @@
 #define R2 9
 #define L1 10
 #define L2 16
-#define KEY_ENTER 0xE0
+#define KEY_ENTER 0xB0
 
 unsigned long tiempo1 = 0;
 unsigned long tiempo2 = 0;
